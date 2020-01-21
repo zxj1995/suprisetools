@@ -1,0 +1,9 @@
+F:\temp\2020年1月14日164249\surprise\obj\Debug\surprise.csprojAssemblyReference.cache
+F:\temp\2020年1月14日164249\surprise\obj\Debug\surprise.Form1.resources
+F:\temp\2020年1月14日164249\surprise\obj\Debug\surprise.Properties.Resources.resources
+F:\temp\2020年1月14日164249\surprise\obj\Debug\surprise.csproj.GenerateResource.cache
+F:\temp\2020年1月14日164249\surprise\bin\Debug\hahaha.exe.config
+F:\temp\2020年1月14日164249\surprise\bin\Debug\hahaha.exe
+F:\temp\2020年1月14日164249\surprise\bin\Debug\hahaha.pdb
+F:\temp\2020年1月14日164249\surprise\obj\Debug\hahaha.exe
+F:\temp\2020年1月14日164249\surprise\obj\Debug\hahaha.pdb
